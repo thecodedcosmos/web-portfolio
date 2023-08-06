@@ -32,6 +32,18 @@ p {
   font-size: 18px;
   line-height: 1.5;
 }
+@media (max-width: 500px) {
+  h1 {
+    font-size: 48px;
+  }
+  p {
+    text-align: center;
+    font-size: 14px;
+  } 
+  .mt-5 {
+    text-align: center;
+  }
+}
 
 .navigation-links {
   display: flex;
