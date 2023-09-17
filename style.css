@@ -16,6 +16,8 @@ h3 {
 }
 
 h1 {
+  font-family: 'Playfair Display SC', serif;
+  font-weight: bold;
   font-size: 96px;
 }
 
@@ -29,6 +31,8 @@ h3 {
 }
 
 p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: normal;
   font-size: 18px;
   line-height: 1.5;
 }
