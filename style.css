@@ -49,6 +49,10 @@ p {
   }
 }
 
+.hero {
+  background-color: #F9F7FE;
+}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
