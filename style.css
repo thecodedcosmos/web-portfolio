@@ -56,7 +56,7 @@ p {
 
 .hero {
   background-color: #F9F7FE;
-  padding: 0%;
+  padding: 160px 20px;
 }
 
 .hero h2 {
@@ -124,6 +124,10 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+.about-section {
+  padding: 160px 20px;
+}
+
 .about-section h1 {
   font-size: 64px;
   line-height: 80px;
@@ -140,9 +144,15 @@ p {
   line-height: 30px;
   text-align: left;
 }
+.about-section-content {
+  margin-right: 30px;
+}
 .row {
   display: flex;
 }
 .a href {
   text-align: center;
+}
+.img-fluid {
+border-radius: 10px;
 }
