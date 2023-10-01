@@ -130,12 +130,19 @@ p {
 }
 .about-section h2 {
   font-size: 18px;
+  font-weight: bold;
   font-family: var(--default-font-family);
+  text-align: left;
 }
-.about-section container {
-  justify-content: center;
-  text-align: center;
+.about-section p {
+  font-size: 18px;
+  font-family: var(--default-font-family);
+  line-height: 30px;
+  text-align: left;
 }
 .row {
   display: flex;
+}
+.a href {
+  text-align: center;
 }
