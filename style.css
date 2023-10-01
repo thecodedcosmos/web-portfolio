@@ -56,7 +56,8 @@ p {
 
 .hero {
   background-color: #F9F7FE;
-  padding: 160px 20px;
+  padding: 100px 20px;
+  margin-bottom: 50px;
 }
 
 .hero h2 {
@@ -81,6 +82,7 @@ p {
   margin: 20px;
 }
 .primary-link {
+  display: center;
   border-radius: 4px;
   padding: 20px 15px;
   text-decoration: none;
@@ -125,7 +127,8 @@ p {
   text-decoration: underline;
 }
 .about-section {
-  padding: 160px 20px;
+  padding: 0px;
+  text-align: center;
 }
 
 .about-section h1 {
